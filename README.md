@@ -28,10 +28,10 @@ Vamos criar algo incrível juntos! 🌐💻
 
 ![Figma](https://img.shields.io/badge/figma-%238A2BE2.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%238A2BE2.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-%238A2BE2?style=for-the-badge&logo=three.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%238A2BE2.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%238A2BE2.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%238A2BE2?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%238A2BE2.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%238A2BE2.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
