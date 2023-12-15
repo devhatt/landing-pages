@@ -1,9 +1,14 @@
 {
-  "name": "octopost",
+  "name": "@devhatt/lp-projects",
   "version": "0.1.0",
   "private": true,
+  "workspaces": [
+    "projects/octopost",
+    "projects/petdex"
+  ],
   "scripts": {
-    "dev": "next dev",
+    "dev:octopost": "npm run dev --workspace=projects/octopost",
+    "dev:petdex": "npm run dev --workspace=projects/petdex",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

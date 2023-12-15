@@ -1,4 +1,4 @@
-import "./globals.css";
+import "../../../../styles/globals.css";
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import React from "react";
@@ -9,9 +9,9 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Octopost",
+  title: "Petdex",
   description:
-    "A octo te leva para um mergulho em todas suas redes em um click",
+    "Bem vindo ao petdex. Clique aqui para saber mais sobre os pets.",
 };
 
 export default function RootLayout({
