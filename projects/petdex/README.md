@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bem-vindo ao Projeto PetDex Landing Page 🐾
 
-## Getting Started
+Seja parte da criação de algo incrível! O PetDex é mais do que apenas uma landing page; é uma experiência visualmente deslumbrante que combina a simplicidade do HTML, a flexibilidade do JavaScript vanilla, a elegância do Sass e a confiabilidade do Jest para testes.
 
-First, run the development server:
+## Sobre o Projeto
+O PetDex Landing Page é um projeto de código aberto destinado a criar uma página inicial única e cativante para amantes de animais. Nosso objetivo é reunir uma comunidade diversificada de desenvolvedores apaixonados para colaborar na construção de uma interface web que não apenas informa, mas também encanta, celebrando a conexão entre humanos e seus animais de estimação.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologias Utilizadas
+### HTML:
+Utilizando a linguagem de marcação padrão para a web, garantindo uma base sólida e acessível.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### JavaScript Vanilla:
+Aproveitando o poder do JavaScript puro para interatividade e dinamismo sem depender de frameworks.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Sass:
+Estilizando com facilidade e organização, o Sass proporciona um pré-processador CSS para designs visualmente impressionantes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Jest:
+Garantindo a qualidade do código com testes unitários confiáveis para uma experiência de desenvolvimento tranquila.
+Contribua!
 
-## Learn More
+Queremos que todos participem! As tarefas foram cuidadosamente quebradas em pedaços gerenciáveis para que qualquer pessoa, independentemente do nível de habilidade, possa contribuir. Junte-se a nós na missão de criar uma landing page única, cheia de estilos encantadores, que celebra a paixão pelos animais de estimação.
 
-To learn more about Next.js, take a look at the following resources:
+### Vamos fazer do PetDex um projeto que todos possam se orgulhar! 🐾✨
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Como começar:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone este repositório.
+Escolha uma tarefa ou sugira uma nova.
+Abra um pull request e faça parte da revolução Petdex!
+Vamos criar algo incrível juntos! 🌐💻
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Figma](https://img.shields.io/badge/figma-%2362DCF6FF.svg?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%2362DCF6FF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%2362DCF6FF.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%2362DCF6FF.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%2362DCF6FF?style=for-the-badge&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%2362DCF6FF.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%2362DCF6FF.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<img width="720" alt="Screenshot 2024-01-05 at 11 13 14" src="https://github.com/devhatt/landing-pages/assets/17785028/9df38d7a-70eb-4bbb-a1b0-ec31390e31b4">
