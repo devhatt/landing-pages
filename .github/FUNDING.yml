@@ -1,10 +1,43 @@
-# These are supported funding model platforms
+github:
+  sponsors:
+    - username: your-username
+      tier: "Custom"
+      color: "#FFD700"  # cor dourada
+      amount: 5
+      frequency: monthly
+      title: "$5 a month"
+      emoji: "✨"
 
-# github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: devhat
-# open_collective: # Replace with a single Open Collective username
-# ko_fi: # Replace with a single Ko-fi username
-# tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-# custom: # Replace with a single custom sponsorship URL
-  
+    - username: your-username
+      tier: "Bronze"
+      color: "#8B4513"  # cor marrom
+      amount: 10
+      frequency: monthly
+      title: "$10 a month"
+      emoji: "❤️"
 
+    - username: your-username
+      tier: "Silver"
+      color: "#4682B4"  # cor azul aço
+      amount: 20
+      frequency: monthly
+      title: "$20 a month"
+      emoji: "💙"
+
+    - username: your-username
+      tier: "Gold"
+      color: "#FFD700"  # cor ouro
+      amount: 40
+      frequency: monthly
+      title: "$40 a month"
+      emoji: "💖"
+
+    - username: your-username
+      tier: "Platinum"
+      color: "#FFD700"  # cor ouro
+      amount: 100
+      frequency: monthly
+      title: "$100 a month"
+      emoji: "🎊"
+
+  patreon: devhat
