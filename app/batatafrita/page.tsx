@@ -1,7 +1,4 @@
-import React from "react";
-
-const BatataFriuta = () => {
+export default function Batatafrita() {
   return <div>teste da batata frita</div>;
 };
 
-export default BatataFriuta;
