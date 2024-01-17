@@ -1,4 +1,3 @@
 export default function Batatafrita() {
-  return <div>teste da batata frita</div>;
-};
-
+  return <div>teste da batata 222frita</div>;
+}
