@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <h1 className="h1-bold primary-gradient  mb-5  text-center">
-        <span className="bg-gradient-to-r from-tertiary-purple to-primary-purple bg-clip-text text-transparent">
+        <span className="bg-white bg-gradient-to-r from-tertiary-purple to-primary-purple bg-clip-text text-transparent">
           Hello Octopost
         </span>
       </h1>
@@ -35,7 +35,7 @@ export default function Home() {
                     },
                   },
                   null,
-                  2
+                  2,
                 )}
               </code>
             </pre>
